@@ -1,14 +1,13 @@
 ## Hi there 👋
-![Header](./github-header-banner.png)
+![Header](./github-header-banner-tech.png)
 
 ### 🐾 About Me
 Hawooo! Welcome to my GitHub profile. I'm a web developer who loves building clean, interactive, and user-friendly applications. I enjoy solving puzzles (just like my banner!) and turning logic into code.
 
-- 🔭 **Currently working on:** Leveling up my front-end skills and building projects like travel and cashflow apps.
 - 🌱 **Currently learning:** Diving deeper into **TypeScript** and modern web development.
 - 👯 **Open to collaborate on:** Fun web projects, UI/UX implementation, or anything creative!
 - 💬 **Ask me about:** HTML, CSS, JavaScript, and how to survive debugging typos.
-- ⚡ **Fun fact:** [Bisa diisi dengan fakta lucu, misal: I can stare at a screen for hours but still miss that one missing semicolon `;`]
+- ⚡ **Fun fact:** I can keep silent without talking for one day 
 
 ### 🛠️ Tech Stack
 <p align="left">
