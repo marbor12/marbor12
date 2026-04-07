@@ -9,6 +9,8 @@ Hawooo! Welcome to my GitHub profile. I'm a web developer who loves building cle
 - 💬 **Ask me about:** HTML, CSS, JavaScript, Laravel, and how to survive debugging typos.
 - ⚡ **Fun fact:** I can keep silent without talking for one day.
 
+---
+
 ### 🛠️ Tech Stack
 
 #### Languages
@@ -31,6 +33,8 @@ Hawooo! Welcome to my GitHub profile. I'm a web developer who loves building cle
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marbor12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -40,11 +44,15 @@ Hawooo! Welcome to my GitHub profile. I'm a web developer who loves building cle
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marbor12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
+---
+
 ### 👾 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marbor12/marbor12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marbor12/marbor12/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marbor12/marbor12/output/pacman-contribution-graph.svg">
 </picture>
+
+---
 
 📫 **How to reach me:** You can call or text me, my number is still the same!
