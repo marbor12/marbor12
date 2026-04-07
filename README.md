@@ -2,22 +2,45 @@
 ![Header](./github-header-banner-tech.png)
 
 ### 🐾 About Me
-Hawooo! Welcome to my GitHub profile. I'm a web developer who loves building clean, interactive, and user-friendly applications. I enjoy solving puzzles (just like my banner!) and turning logic into code.
+Hawooo! Welcome to my GitHub profile. I'm a web developer who loves building clean, interactive, and user-friendly applications. I enjoy solving puzzles and turning logic into code.
 
 - 🌱 **Currently learning:** Diving deeper into **TypeScript** and modern web development.
 - 👯 **Open to collaborate on:** Fun web projects, UI/UX implementation, or anything creative!
-- 💬 **Ask me about:** HTML, CSS, JavaScript, and how to survive debugging typos.
-- ⚡ **Fun fact:** I can keep silent without talking for one day 
+- 💬 **Ask me about:** HTML, CSS, JavaScript, Laravel, and how to survive debugging typos.
+- ⚡ **Fun fact:** I can keep silent without talking for one day.
 
 ### 🛠️ Tech Stack
+
+#### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=py,js,php,java,dart" />
 </p>
 
-### 📈 GitHub Activity
+#### Frontend & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,laravel" />
+</p>
+
+#### Mobile & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,mongodb,mysql" />
+</p>
+
+#### DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marbor12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marbor12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</p>
+
+### 👾 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marbor12/marbor12/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marbor12/marbor12/output/pacman-contribution-graph.svg">
